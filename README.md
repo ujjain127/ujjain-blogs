@@ -2,7 +2,10 @@
 
 A modern, responsive blog platform built with React, featuring a clean design and smooth animations. This platform showcases blog posts, projects, and personal information in an elegant and user-friendly interface.
 
-![Ujjain Blogs Preview]
+##Ujjain Blogs Preview
+![image](https://github.com/user-attachments/assets/16b5c2f0-81f7-45ea-89cd-e564e439537c)
+![image](https://github.com/user-attachments/assets/ab07a7dd-9851-458f-81ae-045f9b772619)
+![image](https://github.com/user-attachments/assets/107c3c99-974a-4bbf-a4f3-b1dd1768bbd1)
 
 ## 🚀 Features
 
@@ -122,7 +125,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 - Ujjain S
-- GitHub: [@yourusername](https://github.com/ujjain127)
+- GitHub: [ujjain127](https://github.com/ujjain127)
 
 ## 🙏 Acknowledgments
 
